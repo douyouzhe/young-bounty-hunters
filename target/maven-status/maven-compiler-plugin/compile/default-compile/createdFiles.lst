@@ -1,0 +1,9 @@
+com\obs\dao\UserDao.class
+utils\WebUtils.class
+com\obs\controller\test\MainTemp.class
+com\obs\services\UserServices.class
+com\obs\controller\UserController.class
+com\obs\dao\impl\UserDaoImpl.class
+com\obs\Entities\Book.class
+com\obs\services\impl\UserServicesImpl.class
+com\obs\Entities\User.class
